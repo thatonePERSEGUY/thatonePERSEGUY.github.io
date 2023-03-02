@@ -1,0 +1,35 @@
+body {
+	font-family: "VCR OSD Mono";
+	color: limegreen;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: black;
+}
+table {
+	border: 0;
+	width: 600px;
+}
+th {
+	width:300px;
+}
+label, input {
+	font-size: 24px;
+	background-color: black;
+	border-color: limegreen;
+	color: limegreen;
+	font-family: "VCR OSD Mono";
+}
+button {
+	width: 160px;
+	height: 40px;
+	color: limegreen;
+	font-size: 20px;
+	background-color: black;
+	border-color: limegreen;
+	font-family: "VCR OSD Mono";
+}
+#tulos {
+	font-size: 30px;
+	background-color: black;
+	color: limegreen;
+}
