@@ -4,6 +4,10 @@ body {
 	font-size: 18px;
 	font-weight: bold;
 	background-color: black;
+	margin: auto;
+  	width: 60%;
+  	border: 3px solid #73AD21;
+  	padding: 10px;
 }
 table {
 	border: 0;
